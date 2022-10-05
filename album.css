@@ -45,11 +45,11 @@ footer p {
 }
 
 strong{
-  color:rgb(247, 245, 243);
+  color:rgb(226, 230, 203);
 }
 
 svg{
-  color: rgb(247, 245, 243);
+  color: rgb(211, 231, 211);
 }
 
 .bottoncito{
@@ -58,12 +58,12 @@ svg{
 }
 
 .body{
-  background-color:rgb(230, 245, 222);
+  background-color:rgb(210, 224, 202);
 }
 
 .texhome{
   text-align-last: left;
-  color: white;
+  color: rgb(225, 231, 218);
   text-justify: inter-word;
 }
 
@@ -121,10 +121,10 @@ h3 {
 .img-responsive {
   width: 100%;
   max-width: 170px;
-  background-color: rgb(247, 245, 243);
+  background-color: rgb(235, 229, 224);
   padding: 20pt;
   position:fixed;
-}
+  }
 
 .row {
   font-size: 2ex;
