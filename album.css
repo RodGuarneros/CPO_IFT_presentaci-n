@@ -135,9 +135,9 @@ h3 {
 
 .img1{
   border-radius: 4px;
-  width: 165px;
-  align-items:inherit;
-  align-items: flex-end;
+  width: 200px;
+  align-items:flex-end;
+  display:block;
   margin-left: auto;
   margin-right: auto;
 
